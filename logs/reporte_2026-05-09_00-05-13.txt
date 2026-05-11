@@ -1,0 +1,22 @@
+===============================
+ REPORTE DE SALUD — 2026-05-09_00-05-13
+===============================
+
+--- CPU ---
+Uso CPU: 2,4%
+
+--- MEMORIA ---
+Total: 3,8Gi | Usado: 1,2Gi | Libre: 1,2Gi
+
+--- DISCO ---
+Total: 1007G | Usado: 7,7G | Libre: 948G | Uso: 1%
+
+--- PROCESOS TOP 5 (por CPU) ---
+ps                   CPU: 100%
+/home/facundo/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/node CPU: 6.9%
+/home/facundo/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/node CPU: 0.6%
+/home/facundo/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/node CPU: 0.1%
+snapfuse             CPU: 0.1%
+
+--- UPTIME ---
+ 00:05:13 up 46 min,  1 user,  load average: 0,13, 0,06, 0,07

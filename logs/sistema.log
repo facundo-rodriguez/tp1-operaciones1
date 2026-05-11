@@ -1,0 +1,61 @@
+[2026-05-09 00:01:31] ============================================
+[2026-05-09 00:01:31] Iniciando script de automatización del sistema
+[2026-05-09 00:01:31] Directorio base: /home/facundo/operaciones1/devops-TP01
+[2026-05-09 00:01:31] ============================================
+[2026-05-09 00:01:31] === TAREA 1: Iniciando backup ===
+[2026-05-09 00:01:31] Backup completado en: /home/facundo/operaciones1/devops-TP01/backups/backup_2026-05-09_00-01-31 (0 archivos)
+[2026-05-09 00:01:31] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-09 00:01:31] Limpieza completa. Archivos eliminados: 0
+[2026-05-09 00:01:31] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-09 00:05:13] ============================================
+[2026-05-09 00:05:13] Iniciando script de automatización del sistema
+[2026-05-09 00:05:13] Directorio base: /home/facundo/operaciones1/devops-TP01
+[2026-05-09 00:05:13] ============================================
+[2026-05-09 00:05:13] === TAREA 1: Iniciando backup ===
+[2026-05-09 00:05:13] Backup completado en: /home/facundo/operaciones1/devops-TP01/backups/backup_2026-05-09_00-05-13 (1 archivos)
+[2026-05-09 00:05:13] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-09 00:05:13] Limpieza completa. Archivos eliminados: 0
+[2026-05-09 00:05:13] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-09 00:05:13] Reporte guardado en: /home/facundo/operaciones1/devops-TP01/logs/reporte_2026-05-09_00-05-13.txt
+[2026-05-09 00:05:13] ============================================
+[2026-05-09 00:05:13] Todas las tareas completadas exitosamente
+[2026-05-09 00:05:13] ============================================
+[2026-05-09 00:16:52] ============================================
+[2026-05-09 00:16:52] Iniciando script de automatización del sistema
+[2026-05-09 00:16:52] Directorio base: /home/facundo/operaciones1/devops-TP01
+[2026-05-09 00:16:52] ============================================
+[2026-05-09 00:16:52] === TAREA 1: Iniciando backup ===
+[2026-05-09 00:16:52] Backup completado en: /home/facundo/operaciones1/devops-TP01/backups/backup_2026-05-09_00-16-52 (0 archivos)
+[2026-05-09 00:16:52] === TAREA 2: Limpieza de archivos mayores a 3 días ===
+[2026-05-09 00:16:52] Limpieza completa. Archivos eliminados: 0
+[2026-05-09 00:16:52] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-09 00:16:53] Reporte guardado en: /home/facundo/operaciones1/devops-TP01/logs/reporte_2026-05-09_00-16-52.txt
+[2026-05-09 00:16:53] ============================================
+[2026-05-09 00:16:53] Todas las tareas completadas exitosamente
+[2026-05-09 00:16:53] ============================================
+[2026-05-09 00:17:07] ============================================
+[2026-05-09 00:17:07] Iniciando script de automatización del sistema
+[2026-05-09 00:17:07] Directorio base: /home/facundo/operaciones1/devops-TP01
+[2026-05-09 00:17:07] ============================================
+[2026-05-09 00:17:07] === TAREA 1: Iniciando backup ===
+[2026-05-09 00:17:07] Backup completado en: /home/facundo/operaciones1/devops-TP01/backups/backup_2026-05-09_00-17-07 (0 archivos)
+[2026-05-09 00:17:07] === TAREA 2: Limpieza de archivos mayores a 0 días ===
+[2026-05-09 00:17:07] Limpieza completa. Archivos eliminados: 0
+[2026-05-09 00:17:07] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-09 00:17:07] Reporte guardado en: /home/facundo/operaciones1/devops-TP01/logs/reporte_2026-05-09_00-17-07.txt
+[2026-05-09 00:17:07] ============================================
+[2026-05-09 00:17:07] Todas las tareas completadas exitosamente
+[2026-05-09 00:17:07] ============================================
+[2026-05-09 00:17:15] ============================================
+[2026-05-09 00:17:15] Iniciando script de automatización del sistema
+[2026-05-09 00:17:15] Directorio base: /home/facundo/operaciones1/devops-TP01
+[2026-05-09 00:17:15] ============================================
+[2026-05-09 00:17:15] === TAREA 1: Iniciando backup ===
+[2026-05-09 00:17:15] Backup completado en: /home/facundo/operaciones1/devops-TP01/backups/backup_2026-05-09_00-17-15 (0 archivos)
+[2026-05-09 00:17:15] === TAREA 2: Limpieza de archivos mayores a 1 días ===
+[2026-05-09 00:17:15] Limpieza completa. Archivos eliminados: 0
+[2026-05-09 00:17:15] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-09 00:17:15] Reporte guardado en: /home/facundo/operaciones1/devops-TP01/logs/reporte_2026-05-09_00-17-15.txt
+[2026-05-09 00:17:15] ============================================
+[2026-05-09 00:17:15] Todas las tareas completadas exitosamente
+[2026-05-09 00:17:15] ============================================
