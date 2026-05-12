@@ -1,5 +1,6 @@
 # TP01 - Operaciones1 — Automatización con Bash
 Script que automatiza 3 tareas de administración de sistemas Linux.
+
 ## Tareas automatizadas
 1. **Backup con timestamp** — copia archivos del directorio actual
 2. **Limpieza de archivos viejos** — elimina backups con más de N días
@@ -34,10 +35,12 @@ reporte"
 git branch -M main
 apt install gh
 gh auth login
+
 ? What account do you want to log into? GitHub.com
 ? What is your preferred protocol for Git operations on this host? HTTPS
 ? How would you like to authenticate GitHub CLI? Paste an authentication
 token
+
 Tip: you can generate a Personal Access Token here
 https://github.com/settings/tokens
 The minimum required scopes are 'repo', 'read:org', 'workflow'.
